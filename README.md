@@ -1,4 +1,4 @@
-Puyo Pop (GBA) — Traducción al Español v1.0
+Puyo Pop (GBA) — Traducción al Español v1.1
 
 Este parche traduce completamente al español el videojuego Puyo Pop (conocido en Japón como Minna de Puyo Puyo) para la Game Boy Advance, permitiendo disfrutar de la entrega clásica de puzles en nuestro idioma.
 
@@ -12,8 +12,12 @@ Selecciona la ROM original, el archivo del parche .bps y aplica los cambios para
 
 Screenshots:
 
-![Pantalla de Título](screenshots/PUYOPOP_01.png)
-![Menú principal](screenshots/PUYOPOP_02.png)
-![Gameplay 01](screenshots/PUYOPOP_03.png)
-![Gameplay 02](screenshots/PUYOPOP_04.png)
+![Selección de idioma](screenshots/PUYOPOP_01.png)
+![Tutorial 01](screenshots/PUYOPOP_02.png)
+![Tutorial 02](screenshots/PUYOPOP_03.png)
+![Pantalla de título](screenshots/PUYOPOP_04.png)
+![Menú principal](screenshots/PUYOPOP_05.png)
+![Gameplay 01](screenshots/PUYOPOP_06.png)
+![Gameplay 02](screenshots/PUYOPOP_07.png)
+![Gameplay 03](screenshots/PUYOPOP_08.png)
 
