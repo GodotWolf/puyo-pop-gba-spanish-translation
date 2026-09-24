@@ -19,5 +19,5 @@ Screenshots:
 ![Menú principal](screenshots/PUYOPOP_05.png)
 ![Gameplay 01](screenshots/PUYOPOP_06.png)
 ![Gameplay 02](screenshots/PUYOPOP_07.png)
-![Gameplay 03](screenshots/PUYOPOP_08.png)
+![Gameplay 03](screenshots/PUYOPOP_13.png)
 
